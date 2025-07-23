@@ -1,4 +1,4 @@
-# Barqx
+# BARQx
 
 Welcome to my site.
 
