@@ -16,7 +16,7 @@ With over 160+ unique key mappings across regular, Shift, AltGr (Right Alt), and
 **Recent contributions:**
 - ✅ [PR #3633: Keyman port](https://github.com/keymanapp/keyboards/pull/3633){:target="_blank"} – Ported Pak Urdu Installer layout for Keyman  
   – Includes an additional mapping for `U+FDFB` (ﷻ) on AltGr+Shift+X
-- ✅ [PR #839: XKB integration](https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/merge_requests/839){:target="_blank"} – *Currently in review* for inclusion in official Linux keyboard layouts, enabling native support without manual setup
+-    [PR #839: XKB integration](https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/merge_requests/839){:target="_blank"} – *Currently in review* for inclusion in official Linux keyboard layouts, enabling native support without manual setup
 
 <p style="text-align: right; font-style: italic;">Last updated: 2025-07-25</p>
 
