@@ -14,7 +14,7 @@ With over 160+ unique key mappings across regular, Shift, AltGr (Right Alt), and
 → [View project on GitHub](https://github.com/barqx/pak-urdu-phonetic){:target="_blank"}  
 → [Installation instructions and keymap](https://barqx.github.io/pak-urdu-phonetic){:target="_blank"}
 
-**Recent contributions:**
+**Merged PRs:**
 - ✅ [PR #3633: Keyman port](https://github.com/keymanapp/keyboards/pull/3633){:target="_blank"} – Ported Pak Urdu Installer layout for Keyman  
   – Includes an additional mapping for `U+FDFB` (ﷻ) on AltGr+Shift+X
 - ✅ [PR #839: XKB integration](https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/merge_requests/839){:target="_blank"} – *Merged and released — available in Ubuntu 26.04 LTS and other latest Linux distros.*
