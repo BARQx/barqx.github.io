@@ -11,7 +11,7 @@ Pak Urdu Phonetic is an Urdu keyboard layout faithfully ported from the popular 
 
 With over 160+ unique key mappings across regular, Shift, AltGr (Right Alt), and Shift+AltGr combinations, this layout offers the most complete phonetic Urdu typing solution available — more comprehensive than any previous Urdu keyboard layout to date.
 
-→ [View project on GitHub](https://github.com/barqx/pak-urdu-phonetic){:target="_blank"}
+→ [View project on GitHub](https://github.com/barqx/pak-urdu-phonetic){:target="_blank"}  
 → [Installation instructions and keymap](https://barqx.github.io/pak-urdu-phonetic){:target="_blank"}
 
 **Recent contributions:**
@@ -19,4 +19,4 @@ With over 160+ unique key mappings across regular, Shift, AltGr (Right Alt), and
   – Includes an additional mapping for `U+FDFB` (ﷻ) on AltGr+Shift+X
 - ✅ [PR #839: XKB integration](https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/merge_requests/839){:target="_blank"} – *Merged and released — available in Ubuntu 26.04 LTS and other latest Linux distros.*
 
-<p style="text-align: right; font-style: italic;">Last updated: 2026-05-06</p>
+<p style="text-align: right; font-style: italic;">Last updated: 2026-05-07</p>
