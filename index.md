@@ -5,6 +5,17 @@ title: BARQx
 
 <h1 style="color: #000000">PROJECTS</h1>
 
+## Qur'anic Arabic Cognate & Lexicon Portal
+
+The Qur'anic Arabic Cognate & Lexicon Portal is an interactive tool for comparative Semitic lexicography. It bridges Qur'anic Arabic roots to their Hebrew cognates using historical sound-change rules and pulls live dictionary definitions directly from Sefaria and Wiktionary. 
+
+It also serves as a unified search hub for major Qur'anic corpora and classical lexicons (including Lane's Lexicon via Ejtaal, The Quranic Arabic Corpus, and Al-Ma'any), eliminating the need to manually cross-reference multiple platforms.
+
+→ [View project on GitHub](https://github.com/barqx/quran-cognate-lexicon){:target="_blank"}  
+→ [Launch Web Application](https://barqx.github.io/quran-cognate-lexicon){:target="_blank"}
+
+<p style="text-align: right; font-style: italic;">Last updated: 2026-08-23</p>
+
 ## Pak Urdu Phonetic
 
 Pak Urdu Phonetic is an Urdu keyboard layout faithfully ported from the popular Windows-based Pak Urdu Installer layout by mBilalm. It offers the same simple, intuitive phonetic typing experience and brings this widely adopted standard to the Keyman platform for cross-platform use.
