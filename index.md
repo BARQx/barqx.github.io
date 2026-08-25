@@ -12,7 +12,7 @@ The Qur'anic Arabic Cognate & Lexicon Portal is an interactive tool for comparat
 It also serves as a unified search hub for major Qur'anic corpora and classical lexicons (including Lane's Lexicon via Ejtaal, The Quranic Arabic Corpus, and Al-Ma'any), eliminating the need to manually cross-reference multiple platforms.
 
 → [View project on GitHub](https://github.com/barqx/quran-cognate-lexicon){:target="_blank"}  
-→ [Launch Web Application](https://barqx.github.io/quran-cognate-lexicon){:target="_blank"}
+→ [Launch Web Application](https://qclex.vercel.app){:target="_blank"}
 
 <p style="text-align: right; font-style: italic;">Last updated: 2026-08-23</p>
 
