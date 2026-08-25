@@ -12,9 +12,7 @@ The Qur'anic Arabic Cognate & Lexicon Portal is an interactive tool for comparat
 It also serves as a unified search hub for major Qur'anic corpora and classical lexicons (including Lane's Lexicon via Ejtaal, The Quranic Arabic Corpus, and Al-Ma'any), eliminating the need to manually cross-reference multiple platforms.
 
 → [View project on GitHub](https://github.com/barqx/quran-cognate-lexicon){:target="_blank"}  
-→ [Launch Web Application](https://qclex.vercel.app){:target="_blank"}
-
-<p style="text-align: right; font-style: italic;">Last updated: 2026-08-23</p>
+→ [Launch Web Application](https://qcl.barqx.me){:target="_blank"}
 
 ## Pak Urdu Phonetic
 
@@ -29,5 +27,3 @@ With over 160+ unique key mappings across regular, Shift, AltGr (Right Alt), and
 - ✅ [PR #3633: Keyman port](https://github.com/keymanapp/keyboards/pull/3633){:target="_blank"} – Ported Pak Urdu Installer layout for Keyman  
   – Includes an additional mapping for `U+FDFB` (ﷻ) on AltGr+Shift+X
 - ✅ [PR #839: XKB integration](https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/-/merge_requests/839){:target="_blank"} – *Merged and released — available in Ubuntu 26.04 LTS and other latest Linux distros.*
-
-<p style="text-align: right; font-style: italic;">Last updated: 2026-05-07</p>
